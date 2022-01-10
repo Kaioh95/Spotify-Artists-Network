@@ -2,7 +2,7 @@
 
 Neste notebook faremos um estudo com base em um banco de dados de playlists criadas, entre janeiro de 2010 e outubro de 2017, pelos usuários do Spotify. Por meio do banco de dados, iremos construir uma rede de coocorrência de artistas, onde um vértice representa um artista e uma aresta é adicionada entre dois artista se os mesmos se encontram na mesma playlist.
 
-<center><img width="400" src=""></center>
+<center><img width="400" src="https://github.com/Kaioh95/Spotify-Artists-Network/blob/main/data/SpotifyNetworkBlack.png"></center>
 <center>
   
 ## Technologies and datasets
